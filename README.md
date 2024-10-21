@@ -66,6 +66,7 @@
  <summary><b>Hacktoberfest Badges🪶</b></summary><br>
 	<a href="https://discord.gg/hacktoberfest">
 		<img width="150" src="https://assets.holopin.io/hf2024levels/level0-sloth-hello-0-0-0-0.webp" alt="Hacktoberfest 2024 Level 0" />
+		<img width="150" src="https://assets.holopin.io/hf2024levels/level1-sloth-hello-0-0-0-0.webp" alt="Hacktoberfest 2024 Level 1" />
 	</a>
 </div>
 <br>
