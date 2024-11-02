@@ -69,6 +69,7 @@
 		<img width="150" src="https://assets.holopin.io/hf2024levels/level1-sloth-hello-0-0-0-0.webp" alt="Hacktoberfest 2024 Level 1" />
 		<img width="150" src="https://assets.holopin.io/hf2024levels/level2-sloth-hello-0-0-0-0.webp" alt="Hacktoberfest 2024 Level 2" />
 		<img width="150" src="https://assets.holopin.io/hf2024levels/level3-sloth-hello-0-0-0-0.webp" alt="Hacktoberfest 2024 Level 3" />
+		<img width="150" src="https://assets.holopin.io/hf2024levels/level4-sloth-hello-0-0-0-0.webp" alt="Hacktoberfest 2024 Level 4" />
 	</a>
 </div>
 <br>
